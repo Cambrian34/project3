@@ -1,4 +1,4 @@
-# project3
+# Project3
 CS1714 -Project 3 UTSA
 Overview
 The project is to create a turn-based role-playing game between two (computer) players in which they battle each other with a list of champions. 
